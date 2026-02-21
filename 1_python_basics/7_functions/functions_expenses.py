@@ -11,7 +11,7 @@ def find_total(expenses):
         total += expense
     return total
 
-expenses_sergey = [30, 45, 70, 90]
+expenses_sergey = [30, 45, 70, 90,100]
 expenses_sundar = [40, 23, 10, 85]
 
 total = find_total(expenses_sergey)
