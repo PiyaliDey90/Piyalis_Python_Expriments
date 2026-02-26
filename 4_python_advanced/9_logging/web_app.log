@@ -1,0 +1,7 @@
+2026-02-26 14:39:48,552 - INFO - User Dhaval Patel logged in
+2026-02-26 14:39:48,552 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "C:\Users\piyal\OneDrive\Desktop\Learning\Python\codebasics_python_course_code\4_python_advanced\9_logging\logging_2.py", line 18, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2026-02-26 14:39:48,559 - INFO - User Dhaval Patel logged out
